@@ -1,1 +1,1 @@
-web: gunicorn test1.wsgi
+web: gunicorn moteur_r:app
