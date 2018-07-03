@@ -1,0 +1,10 @@
+FLASK_APP=run.py flask init_db
+
+
+var=$(wget -q -O - "http://127.0.0.1:5000/recommend/133/")
+echo $var
+
+
+https://infinite-hamlet-53513.herokuapp.com/
+
+
