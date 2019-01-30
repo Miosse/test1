@@ -7,3 +7,6 @@ Projet de Moteur de recommandation de Films sur le site Imdb
 > - Un lien nous guide sur le site Imbd pour les détails du film<br>
 <br>
 > Dépot Git pour déploiement Heroku
+
+Déployé sur Heroku : https://damp-headland-69397.herokuapp.com/index.html
+PS: pour information la 1e connexion réveille le serveur
